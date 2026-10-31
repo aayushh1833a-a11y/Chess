@@ -1,0 +1,12 @@
+{
+  "appId": "com.wizardchess.sanctum",
+  "appName": "Wizard Chess 3D",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#080a0f",
+    "allowMixedContent": true
+  }
+}
